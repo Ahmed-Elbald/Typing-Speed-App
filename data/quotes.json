@@ -1,0 +1,762 @@
+[
+  {
+    "content": "There is some good in this world, and it's worth fighting for.",
+    "author": "J.R.R. Tolkien",
+    "book": "The Two Towers"
+  },
+  {
+    "content": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+    "author": "Antoine de Saint-Exupéry",
+    "book": "The Little Prince"
+  },
+  {
+    "content": "I am no bird; and no net ensnares me: I am a free human being with an independent will, which I now exert to leave you.",
+    "author": "Charlotte Brontë",
+    "book": "Jane Eyre"
+  },
+  {
+    "content": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+    "author": "Charles Dickens",
+    "book": "A Tale of Two Cities"
+  },
+  {
+    "content": "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin but you begin anyway and you see it through no matter what. You rarely win, but sometimes you do.",
+    "author": "Harper Lee",
+    "book": "To Kill a Mockingbird"
+  },
+  {
+    "content": "A man, after he has brushed off the dust and chips of his life, will have left only the hard, clean questions: Was it good or was it evil? Have I done well - or ill?",
+    "author": "John Steinbeck",
+    "book": "East of Eden"
+  },
+  {
+    "content": "The only way out of the labyrinth of suffering is to forgive.",
+    "author": "John Green",
+    "book": "Looking for Alaska"
+  },
+  {
+    "content": "This above all: To thine own self be true, And it must follow, as the night the day, Thou canst not then be false to any man.",
+    "author": "William Shakespeare",
+    "book": "Hamlet"
+  },
+  {
+    "content": "'Why did you do all this for me?' he asked. 'I don't deserve it. I've never done anything for you.' 'You have been my friend,' replied Charlotte. 'That in itself is a tremendous thing.'",
+    "author": "E.B. White",
+    "book": "Charlotte's Web"
+  },
+  {
+    "content": "I took a deep breath and listened to the old brag of my heart: I am, I am, I am.",
+    "author": "Sylvia Plath",
+    "book": "The Bell Jar"
+  },
+  {
+    "content": "Love is or it ain't. Thin love ain't love at all.",
+    "author": "Toni Morrison",
+    "book": "Beloved"
+  },
+  {
+    "content": "We accept the love we think we deserve.",
+    "author": "Stephen Chbosky",
+    "book": "The Perks of Being a Wallflower"
+  },
+  {
+    "content": "And so we beat on, boats against the current, borne back ceaselessly into the past.",
+    "author": "F. Scott Fitzgerald",
+    "book": "The Great Gatsby"
+  },
+  {
+    "content": "Generally, by the time you are Real, most of your hair has been loved off, and your eyes drop out and you get loose in the joints and very shabby. But these things don't matter at all, because once you are Real you can't be ugly, except to people who don't understand.",
+    "author": "Margery Williams",
+    "book": "Velveteen Rabbit"
+  },
+  {
+    "content": "Ever'body's askin' that. 'What we comin' to?' Seems to me we don't never come to nothin'. Always on the way.",
+    "author": "John Steinbeck",
+    "book": "The Grapes of Wrath"
+  },
+  {
+    "content": "Whatever our souls are made of, his and mine are the same.",
+    "author": "Emily Brontë",
+    "book": "Wuthering Heights"
+  },
+  {
+    "content": "There are years that ask questions and years that answer.",
+    "author": "Zora Neale Hurston",
+    "book": "Their Eyes Were Watching God"
+  },
+  {
+    "content": "I am not afraid of storms, for I am learning how to sail my ship.",
+    "author": "Louisa May Alcott",
+    "book": "Little Women"
+  },
+  {
+    "content": "All happy families are alike; each unhappy family is unhappy in its own way.",
+    "author": "Leo Tolstoy",
+    "book": "Anna Karenina"
+  },
+  {
+    "content": "Memories warm you up from the inside. But they also tear you apart.",
+    "author": "Haruki Murakami",
+    "book": "Kafka on the Shore"
+  },
+  {
+    "content": "It is nothing to die; it is dreadful not to live.",
+    "author": "Victor Hugo",
+    "book": "Les Misérables"
+  },
+  {
+    "content": "Who controls the past controls the future. Who controls the present controls the past.",
+    "author": "George Orwell",
+    "book": "Nineteen Eighty-Four"
+  },
+  {
+    "content": "Life is to be lived, not controlled; and humanity is won by continuing to play in face of certain defeat.",
+    "author": "Ralph Ellison",
+    "book": "Invisible Man"
+  },
+  {
+    "content": "Last night I dreamt I went to Manderley again.",
+    "author": "Daphne du Maurier",
+    "book": "Rebecca"
+  },
+  {
+    "content": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "author": "Jane Austen",
+    "book": "Pride and Prejudice"
+  },
+  {
+    "content": "Tomorrow I'll think of some way to get him back. After all, tomorrow is another day.",
+    "author": "Margaret Mitchell",
+    "book": "Gone with the Wind"
+  },
+  {
+    "content": "Why, sometimes, I've believed as many as six impossible things before breakfast.",
+    "author": "Lewis Carroll",
+    "book": "Through the Looking-Glass"
+  },
+  {
+    "content": "Don't ever tell anybody anything. If you do, you start missing everybody.",
+    "author": "J. D. Salinger",
+    "book": "The Catcher in the Rye"
+  },
+  {
+    "content": "It does not do to dwell on dreams and forget to live.",
+    "author": "J.K. Rowling",
+    "book": "Harry Potter and the Sorcerer's Stone"
+  },
+  {
+    "content": "You pierce my soul. I am half agony. Half hope. Tell me not that I am too late, that such precious feelings are gone for ever.",
+    "author": "Jane Austen",
+    "book": "Persuasion"
+  },
+  {
+    "content": "So it goes...",
+    "author": "Kurt Vonnegut",
+    "book": "Slaughterhouse-Five"
+  },
+  {
+    "content": "I had the epiphany that laughter was light, and light was laughter, and that this was the secret of the universe.",
+    "author": "Donna Tartt",
+    "book": "The Goldfinch"
+  },
+  {
+    "content": "There are some things you learn best in calm, and some in storm.",
+    "author": "Willa Cather",
+    "book": "The Song of the Lark"
+  },
+  {
+    "content": "When you play the game of thrones you win or you die.",
+    "author": "George R. R. Martin",
+    "book": "A Game of Thrones"
+  },
+  {
+    "content": "The world breaks everyone, and afterward, many are strong at the broken places.",
+    "author": "Ernest Hemingway",
+    "book": "A Farewell to Arms"
+  },
+  {
+    "content": "From that time on, the world was hers for the reading. She would never be lonely again, never miss the lack of intimate friends. Books became her friends and there was one for every mood.",
+    "author": "Betty Smith",
+    "book": "A Tree Grows in Brooklyn"
+  },
+  {
+    "content": "Once upon a time there was a boy who loved a girl, and her laughter was a question he wanted to spend his whole life answering.",
+    "author": "Nicole Krauss",
+    "book": "The History of Love"
+  },
+  {
+    "content": "Very few castaways can claim to have survived so long at sea as Mr. Patel, and none in the company of an adult Bengal tiger.",
+    "author": "Yann Martel",
+    "book": "Life of Pi"
+  },
+  {
+    "content": "Anyone who ever gave you confidence, you owe them a lot.",
+    "author": "Truman Capote",
+    "book": "Breakfast at Tiffany's"
+  },
+  {
+    "content": "Isn't it nice to think that tomorrow is a new day with no mistakes in it yet?",
+    "author": "L. M. Montgomery",
+    "book": "Anne of Green Gables"
+  },
+  {
+    "content": "You forget what you want to remember, and you remember what you want to forget.",
+    "author": "Cormac McCarthy",
+    "book": "The Road"
+  },
+  {
+    "content": "Call me Ishmael.",
+    "author": "Herman Melville",
+    "book": "Moby Dick"
+  },
+  {
+    "content": "It was a pleasure to burn.",
+    "author": "Ray Bradbury",
+    "book": "Fahrenheit 451"
+  },
+  {
+    "content": "The past is not dead. In fact, it's not even past.",
+    "author": "William Faulkner",
+    "book": "Requiem for a Nun"
+  },
+  {
+    "content": "He has put a knife on the things that held us together and we have fallen apart.",
+    "author": "Chinua Achebe",
+    "book": "Things Fall Apart"
+  },
+  {
+    "content": "'And now,' cried Max, 'let the wild rumpus start!'",
+    "author": "Maurice Sendak",
+    "book": "Where the Wild Things Are"
+  },
+  {
+    "content": "Memories, even your most precious ones, fade surprisingly quickly. But I don't go along with that. The memories I value most, I don't ever see them fading.",
+    "author": "Kazuo Ishiguro",
+    "book": "Never Let Me Go"
+  },
+  {
+    "content": "Nowadays people know the price of everything and the value of nothing.",
+    "author": "Oscar Wilde",
+    "book": "The Picture of Dorian Grey"
+  },
+  {
+    "content": "Time is the longest distance between two places.",
+    "author": "Tennessee Williams",
+    "book": "The Glass Menagerie"
+  },
+  {
+    "content": "The voice of the sea is seductive, never ceasing, whispering, clamoring, murmuring, inviting the soul to wander in abysses of solitude.",
+    "author": "Kate Chopin",
+    "book": "The Awakening"
+  },
+  {
+    "content": "We dream in our waking moments, and walk in our sleep.",
+    "author": "Nathaniel Hawthorne",
+    "book": "The Scarlet Letter"
+  },
+  {
+    "content": "The place where you made your stand never mattered. Only that you were there... and still on your feet.",
+    "author": "Stephen King",
+    "book": "The Stand"
+  },
+  {
+    "content": "But soft! What light through yonder window breaks? It is the east, and Juliet is the sun.",
+    "author": "William Shakespeare",
+    "book": "Romeo and Juliet"
+  },
+  {
+    "content": "My advice is, never do tomorrow what you can do today. Procrastination is the thief of time.",
+    "author": "Charles Dickens",
+    "book": "David Copperfield"
+  },
+  {
+    "content": "So many things are possible just as long as you don't know they're impossible.",
+    "author": "Norton Juster",
+    "book": "The Phantom Tollbooth"
+  },
+  {
+    "content": "I can't stand it to think my life is going so fast and I'm not really living it.",
+    "author": "Ernest Hemingway",
+    "book": "The Sun Also Rises"
+  },
+  {
+    "content": "There is only one page left to write on. I will fill it with words of only one syllable. I love. I have loved. I will love.",
+    "author": "Dodie Smith",
+    "book": "I Capture the Castle"
+  },
+  {
+    "content": "It doesn't matter who you are or what you look like, so long as somebody loves you.",
+    "author": "Roald Dahl",
+    "book": "The Witches"
+  },
+  {
+    "content": "The same substance composes us - the tree overhead, the stone beneath us, the bird, the beast, the star - we are all one, all moving to the same end.",
+    "author": "P.L. Travers",
+    "book": "Mary Poppins"
+  },
+  {
+    "content": "I wish, as well as everybody else, to be perfectly happy; but, like everybody else, it must be in my own way.",
+    "author": "Jane Austen",
+    "book": "Sense and Sensibility"
+  },
+  {
+    "content": "Love is holy because it is like grace – the worthiness of its object is never really what matters.",
+    "author": "Marilynne Robinson",
+    "book": "Gilead"
+  },
+  {
+    "content": "Each time you happen to me all over again.",
+    "author": "Edith Wharton",
+    "book": "The Age of Innocence"
+  },
+  {
+    "content": "Brave doesn't mean you're not scared. It means you go on even though you're scared.",
+    "author": "Angie Thomas",
+    "book": "The Hate U Give"
+  },
+  {
+    "content": "How easy it was to lie to strangers, to create with strangers the versions of our lives we imagined.",
+    "author": "Chimamanda Ngozi Adichie",
+    "book": "Americanah"
+  },
+  {
+    "content": "And, when you want something, all the universe conspires in helping you to achieve it.",
+    "author": "Paulo Coelho",
+    "book": "The Alchemist"
+  },
+  {
+    "content": "Life, with its rules, its obligations, and its freedoms, is like a sonnet: You're given the form, but you have to write the sonnet yourself.",
+    "author": "Madeleine L'Engle",
+    "book": "A Wrinkle in Time"
+  },
+  {
+    "content": "There is always something left to love.",
+    "author": "Gabriel García Márquez",
+    "book": "One Hundred Years of Solitude"
+  },
+  {
+    "content": "The answer to the ultimate question of life, the universe and everything is 42.",
+    "author": "Douglas Adams",
+    "book": "The Hitchhiker's Guide to the Galaxy"
+  },
+  {
+    "content": "All the world's a stage, and all the men and women merely players. They have their exits and their entrances; And one man in his time plays many parts.",
+    "author": "William Shakespeare",
+    "book": "As You Like It"
+  },
+  {
+    "content": "Stay gold, Ponyboy, stay gold.",
+    "author": "S. E. Hinton",
+    "book": "The Outsiders"
+  },
+  {
+    "content": "Sometimes I can hear my bones straining under the weight of all the lives I'm not living.",
+    "author": "Jonathan Safran Foer",
+    "book": "Extremely Loud and Incredibly Close"
+  },
+  {
+    "content": "Do I love you? My God, if your love were a grain of sand, mine would be a universe of beaches.",
+    "author": "William Goldman",
+    "book": "The Princess Bride"
+  },
+  {
+    "content": "Time moves slowly, but passes quickly.",
+    "author": "Alice Walker",
+    "book": "The Color Purple"
+  },
+  {
+    "content": "You don't know about me without you have read a book by the name of The Adventures of Tom Sawyer, but that ain't no matter.",
+    "author": "The Adventures of Tom Sawyer",
+    "book": "Mark Twain"
+  },
+  {
+    "content": "Love is the longing for the half of ourselves we have lost.",
+    "author": "Milan Kundera",
+    "book": "The Unbearable Lightness of Being"
+  },
+  {
+    "content": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+    "author": "J.K. Rowling",
+    "book": "Harry Potter and the Chamber of Secrets"
+  },
+  {
+    "content": "For you, a thousand times over.",
+    "author": "Khaled Hosseini",
+    "book": "The Kite Runner"
+  },
+  {
+    "content": "Then you must teach my daughter this same lesson. How to lose your innocence but not your hope. How to laugh forever.",
+    "author": "Amy Tan",
+    "book": "The Joy Luck Club"
+  },
+  {
+    "content": "And may the odds be ever in your favor.",
+    "author": "Suzanne Collins",
+    "book": "The Hunger Games"
+  },
+  {
+    "content": "Ralph wept for the end of innocence, the darkness of man's heart, and the fall through the air of the true, wise friend called Piggy.",
+    "author": "William Golding",
+    "book": "Lord of the Flies"
+  },
+  {
+    "content": "All human wisdom is summed up in these two words – 'Wait and hope.'",
+    "author": "Alexandre Dumas",
+    "book": "The Count of Monte Cristo"
+  },
+  {
+    "content": "Oh, the places you'll go! You'll be on your way up! You'll be seeing great sights! You'll join the high fliers who soar to high heights.",
+    "author": "Dr. Seuss",
+    "book": "Oh, the Places You'll Go"
+  },
+  {
+    "content": "The longer I live, the more uninformed I feel. Only the young have an explanation for everything.",
+    "author": "Isabel Allende",
+    "book": "City of the Beasts"
+  },
+  {
+    "content": "Open your eyes and see what you can with them before they close forever.",
+    "author": "Anthony Doerr",
+    "book": "All the Light We Cannot See"
+  },
+  {
+    "content": "If you have the guts to be yourself, other people'll pay your price.",
+    "author": "John Updike",
+    "book": "Rabbit, Run"
+  },
+  {
+    "content": "We were the people who were not in the papers. We lived in the blank white spaces at the edges of print. It gave us more freedom. We lived in the gaps between the stories.",
+    "author": "Margaret Atwood",
+    "book": "The Handmaid's Tale"
+  },
+  {
+    "content": "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into an enormous insect.",
+    "author": "Franz Kafka",
+    "book": "The Metamorphosis"
+  },
+  {
+    "content": "What does the brain matter compared with the heart?",
+    "author": "Virginia Woolf",
+    "book": "Mrs. Dalloway"
+  },
+  {
+    "content": "We are such stuff as dreams are made on, and our little life is rounded with a sleep.",
+    "author": "William Shakespeare",
+    "book": "The Tempest"
+  },
+  {
+    "content": "The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.",
+    "author": "George Orwell",
+    "book": "Animal Farm"
+  },
+  {
+    "content": "Most men and women will grow up to love their servitude and will never dream of revolution.",
+    "author": "Aldous Huxley",
+    "book": "Brave New World Revisited"
+  },
+  {
+    "content": "There is no greater agony than bearing an untold story inside you.",
+    "author": "Maya Angelou",
+    "book": "I Know Why the Caged Bird Sings"
+  },
+  {
+    "content": "As he read, I fell in love the way you fall asleep: slowly, and then all at once.",
+    "author": "John Green",
+    "book": "The Fault in Our Stars"
+  },
+  {
+    "content": "Anything worth dying for is certainly worth living for.",
+    "author": "Joseph Heller",
+    "book": "Catch-22"
+  },
+  {
+    "content": "All the world is made of faith, and trust, and pixie dust.",
+    "author": "J.M. Barrie",
+    "book": "Peter Pan"
+  },
+  {
+    "content": "Get busy living or get busy dying.",
+    "author": "Stephen King",
+    "book": "Rita Hayworth and Shawshank Redemption"
+  },
+  {
+    "content": "'But man is not made for defeat,' he said. 'A man can be destroyed but not defeated.'",
+    "author": "Ernest Hemingway",
+    "book": "The Old Man and the Sea"
+  },
+  {
+    "content": "All we can know is that we know nothing. And that's the height of human wisdom.",
+    "author": "Leo Tolstoy",
+    "book": "War and Peace"
+  },
+  {
+    "content": "There is nothing like looking, if you want to find something. You certainly usually find something, if you look, but it is not always quite the something you were after.",
+    "author": "J.R.R. Tolkien",
+    "book": "The Hobbit"
+  },
+  {
+    "content": "I opened myself to the gentle indifference of the world.",
+    "author": "Albert Camus",
+    "book": "The Stranger"
+  },
+  {
+    "content": "What goes around may come around, but it never ends up exactly the same place, you ever notice? Like a record on a turntable, all it takes is one groove's difference and the universe can be on into a whole 'nother song.",
+    "author": "Thomas Pynchon",
+    "book": "Inherent Vice"
+  },
+  {
+    "content": "We live in the flicker - may it last as long as the old earth keeps rolling! But darkness was here yesterday.",
+    "author": "Joseph Conrad",
+    "book": "Heart of Darkness"
+  },
+  {
+    "content": "Travel far enough, you meet yourself.",
+    "author": "David Mitchell",
+    "book": "Cloud Atlas"
+  },
+  {
+    "content": "There was a long hard time when I kept far from me the remembrance of what I had thrown away when I was quite ignorant of its worth.",
+    "author": "Charles Dickens",
+    "book": "Great Expectations"
+  },
+  {
+    "content": "Among other things, you'll find that you're not the first person who was ever confused and frightened and even sickened by human behavior. You're by no means alone on that score, you'll be excited and stimulated to know. Many, many men have been just as troubled morally and spiritually as you are right now. Happily, some of them kept records of their troubles. You'll learn from them - if you want to. Just as someday, if you have something to offer, someone will learn something from you. It's a beautiful reciprocal arrangement. And it isn't education. It's history. It's poetry.",
+    "author": "J.D. Salinger",
+    "book": "The Catcher in the Rye"
+  },
+  {
+    "content": "Beware; for I am fearless, and therefore powerful.",
+    "author": "Mary Shelley",
+    "book": "Frankenstein"
+  },
+  {
+    "content": "Have patience with everything that remains unsolved in your heart. Try to love the questions themselves, like locked rooms and like books written in a foreign language. Do not now look for the answers. They cannot now be given to you because you could not live them. It is a question of experiencing everything. At present you need to live the question. Perhaps you will gradually, without even noticing it, find yourself experiencing the answer, some distant day.",
+    "author": "Rainer Maria Rilke",
+    "book": "Letters to a Young Poet"
+  },
+  {
+    "content": "One day I will find the right words, and they will be simple.",
+    "author": "Jack Kerouac",
+    "book": "The Dharma Bums"
+  },
+  {
+    "content": "I wanted to explain that I am constantly overestimating and underestimating the human race - that rarely do I even simply estimate it. I wanted to ask her how the same thing could be so ugly and so glorious, and its words and stories so damning and brilliant.",
+    "author": "Markus Zusak",
+    "book": "The Book Thief"
+  },
+  {
+    "content": "It had nothing to do with gear or footwear or the backpacking fads or philosophies of any particular era or even with getting from point A to point B. It had to do with how it felt to be in the wild. With what it was like to walk for miles with no reason other than to witness the accumulation of trees and meadows, mountains and deserts, streams and rocks, rivers and grasses, sunrises and sunsets. The experience was powerful and fundamental. It seemed to me that it had always felt like this to be a human in the wild, and as long as the wild existed it would always feel this way.",
+    "author": "Cheryl Strayed",
+    "book": "Wild"
+  },
+  {
+    "content": "He was unheeded, happy, and near to the wild heart of life.",
+    "author": "James Joyce",
+    "book": "A Portrait of the Artist as a Young Man"
+  },
+  {
+    "content": "Between the wish and the thing the world lies waiting.",
+    "author": "Cormac McCarthy",
+    "book": "All the Pretty Horses"
+  },
+  {
+    "content": "If we wait until we're ready, we'll be waiting for the rest of our lives.",
+    "author": "Daniel Handler",
+    "book": "The Ersatz Elevator"
+  },
+  {
+    "content": "If you look for perfection, you'll never be content.",
+    "author": "Leo Tolstoy",
+    "book": "Anna Karenina"
+  },
+  {
+    "content": "He thought her beautiful, believed her impeccably wise; dreamed of her, wrote poems to her, which, ignoring the subject, she corrected in red ink.",
+    "author": "Virginia Woolf",
+    "book": "Mrs. Dalloway"
+  },
+  {
+    "content": "For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much - the wheel, New York, wars and so on - whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man - for precisely the same reasons.",
+    "author": "Douglas Adams",
+    "book": "The Hitchhiker's Guide to the Galaxy"
+  },
+  {
+    "content": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "author": "Jane Austen",
+    "book": "Pride and Prejudice"
+  },
+  {
+    "content": "Anything worth dying for is certainly worth living for.",
+    "author": "Joseph Heller",
+    "book": "Catch-22"
+  },
+  {
+    "content": "When you find out you can live without it, go along not thinking about it.",
+    "author": "Rudyard Kipling",
+    "book": "The Jungle Book"
+  },
+  {
+    "content": "Life is so beautiful that death has fallen in love with it, a jealous, possessive love that grabs at what it can. But life leaps over oblivion lightly, losing only a thing or two of no importance, and gloom is but the passing shadow of a cloud.",
+    "author": "Yann Martel",
+    "book": "Life of Pi"
+  },
+  {
+    "content": "Things have their shape in time, not space alone. Some marble blocks have statues within them, embedded in their future.",
+    "author": "Alan Moore",
+    "book": "Watchmen"
+  },
+  {
+    "content": "Every day is a new day. It is better to be lucky. But I would rather be exact. Then when luck comes you are ready.",
+    "author": "Ernest Hemingway",
+    "book": "The Old Man and the Sea"
+  },
+  {
+    "content": "To die of love is to live by it.",
+    "author": "Victor Hugo",
+    "book": "Les Misérables"
+  },
+  {
+    "content": "Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.",
+    "author": "Paramahansa Yogananda",
+    "book": "Autobiography of a Yogi (Self-Realization Fellowship)"
+  },
+  {
+    "content": "I like to imagine that the world is one big machine. You know, machines never have any extra parts. They have the exact number and type of parts they need. So I figure if the entire world is a big machine, I have to be here for some reason. And that means you have to be here for some reason, too.",
+    "author": "Brian Selznick",
+    "book": "The Invention of Hugo Cabret"
+  },
+  {
+    "content": "As for me, I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts.",
+    "author": "Herman Melville",
+    "book": "Moby-Dick or, the Whale"
+  },
+  {
+    "content": "One day, you will be old enough to start reading fairytales again.",
+    "author": "C.S. Lewis",
+    "book": "The Lion, the Witch, and the Wardrobe"
+  },
+  {
+    "content": "It's only after we've lost everything that we're free to do anything.",
+    "author": "Chuck Palahniuk",
+    "book": "Fight Club"
+  },
+  {
+    "content": "I urge you to please notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.'",
+    "author": "Kurt Vonnegut",
+    "book": "A Man Without a Country"
+  },
+  {
+    "content": "Death really did not matter to him but life did, and therefore the sensation he felt when they gave their decision was not a feeling of fear but of nostalgia.",
+    "author": "Gabriel García Márquez",
+    "book": "One Hundred Years of Solitude"
+  },
+  {
+    "content": "It's no use going back to yesterday, because I was a different person then.",
+    "author": "Lewis Carroll",
+    "book": "Alice's Adventures in Wonderland"
+  },
+  {
+    "content": "The truth may be stretched thin, but it never breaks, and it always surfaces above lies, as oil floats on water.",
+    "author": "Miguel de Cervantes Saavedra",
+    "book": "Don Quixote"
+  },
+  {
+    "content": "Who, being loved, is poor?",
+    "author": "Oscar Wilde",
+    "book": "A Woman of No Importance"
+  },
+  {
+    "content": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+    "author": "Theodor Seuss Geisel (Dr. Seuss)",
+    "book": "The Lorax"
+  },
+  {
+    "content": "Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.",
+    "author": "Neil Gaiman",
+    "book": "Coraline"
+  },
+  {
+    "content": "Generally, by the time you are Real, most of your hair has been loved off, and your eyes drop out and you get loose in the joints and very shabby. But these things don't matter at all, because once you are Real you can't be ugly, except to people who don't understand.",
+    "author": "Margery Williams Bianco",
+    "book": "The Velveteen Rabbit"
+  },
+  {
+    "content": "If adventures will not befall a young lady in her own village, she must seek them abroad.",
+    "author": "Jane Austen",
+    "book": "Northanger Abbey"
+  },
+  {
+    "content": "All we have to decide is what to do with the time that is given us.",
+    "author": "J.R.R. Tolkien",
+    "book": "The Fellowship of the Ring"
+  },
+  {
+    "content": "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration.",
+    "author": "Frank Herbert",
+    "book": "Dune"
+  },
+  {
+    "content": "I like good strong words that mean something.",
+    "author": "Louisa May Alcott",
+    "book": "Little Women"
+  },
+  {
+    "content": "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love.",
+    "author": "Fyodor Dostoevsky",
+    "book": "The Brothers Karamazov"
+  },
+  {
+    "content": "Perhaps to lose a sense of where you are implies the danger of losing a sense of who you are.",
+    "author": "Ralph Ellison",
+    "book": "Invisible Man"
+  },
+  {
+    "content": "Where there is equality there can be sanity.",
+    "author": "George Orwell",
+    "book": "1984"
+  },
+  {
+    "content": "I would not have you descend into your own dream. I would have you be a conscious citizen of this terrible and beautiful world.",
+    "author": "Ta-Nehisi Coates",
+    "book": "Between the World and Me"
+  },
+  {
+    "content": "This above all: to thine own self be true / And it must follow, as the night the day / Thou canst not then be false to any man.",
+    "author": "William Shakespeare",
+    "book": "Hamlet"
+  },
+  {
+    "content": "Definitions belong to the definers, not the defined.",
+    "author": "Toni Morrison",
+    "book": "Beloved"
+  },
+  {
+    "content": "Ignoring isn't the same as ignorance, you have to work at it.",
+    "author": "Margaret Atwood",
+    "book": "The Handmaid's Tale"
+  },
+  {
+    "content": "What passes for hip cynical transcendence of sentiment is really some kind of fear of being really human, since to be really human [...] is probably to be unavoidably sentimental and naïve and goo-prone and generally pathetic.",
+    "author": "David Foster Wallace",
+    "book": "Infinite Jest"
+  },
+  {
+    "content": "Perhaps home is not a place but simply an irrevocable condition.",
+    "author": "James Baldwin",
+    "book": "Giovanni's Room"
+  },
+  {
+    "content": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+    "author": "F. Scott Fitzgerald",
+    "book": "The Great Gatsby"
+  },
+  {
+    "content": "You never really understand a person until you consider things from his point of view [...], until you climb inside of his skin and walk around in it.",
+    "author": "Harper Lee",
+    "book": "To Kill a Mockingbird"
+  },
+  {
+    "content": "There is no greater agony than bearing an untold story inside you.",
+    "author": "Maya Angelou",
+    "book": "I Know Why the Caged Bird Sings"
+  }
+]

@@ -1,0 +1,290 @@
+/* Global */
+
+:root {
+  --primaryColor_1: hsl(243, 87%, 12%);
+  --primaryColor_2: hsl(238, 22%, 44%);
+
+  --accentColor_1: hsl(224, 93%, 58%);
+  --accentColor_2: hsl(170, 45%, 43%);
+  --hoverColor: hsl(206, 100%, 62%);
+
+  --neutralColor_1: hsl(240, 75%, 98%);
+  --neutralColor_2: hsl(0, 0%, 75%);
+
+  --rightTyping: rgb(47, 255, 99);
+  --wrongTyping: rgb(255, 47, 0);
+
+  --letterSpacing: 1.5px;
+  --edgeSize: 10px;
+}
+
+::-webkit-scrollbar {
+  width: 0.5em;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--neutralColor_2);
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--accentColor_1);
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input,
+button {
+  border: none;
+  outline: none;
+}
+
+input:focus-visible,
+button:focus-visible {
+    box-shadow: 0 0 5px var(--hoverColor);
+}
+
+button {
+  background-color: transparent;
+}
+
+button > * {
+  pointer-events: none;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  text-transform: inherit;
+  color: inherit;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--primaryColor_1);
+  text-transform: capitalize;
+  line-height: 1.5;
+  font-family: 'Rubik', sans-serif;
+}
+
+i,
+a,
+button {
+  cursor: pointer;
+}
+
+/* Components */
+
+.container {
+  margin: auto;
+  padding: 0 1em;
+
+}
+
+@media (min-width: 800px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1100px;
+  }
+}
+
+.regular-btn {
+  padding: .8rem;
+  background-color: var(--primaryColor_1);
+  color: white;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+  border-radius: var(--edgeSize);
+  transition-duration: .5s;
+  cursor: pointer;
+}
+
+.regular-btn:hover {
+  background-color: var(--hoverColor);
+}
+
+.marked {
+  font-weight: 700;
+  color: var(--accentColor_1);
+}
+
+/* Introduction && Change Name */
+
+.intro,
+.change-name {
+  position: absolute;
+  background-color: var(--neutralColor_1);
+  transition-duration: 1s;
+  z-index: 99;
+}
+
+.intro.fuck-off {
+  transform: translateY(-100%);
+}
+
+.change-name.show-up {
+  transform: translateY(0);
+}
+
+.intro {
+  inset: 0;
+  display: grid;
+  place-items: center;
+}
+
+.change-name {
+  transform: translateY(-100%);
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.change-name .close-change-name {
+  position: absolute;
+  top: .7rem;
+  right: .7rem;
+}
+
+.intro h1,
+.change-name h1 {
+  text-align: center;
+  font-size: 1.5rem;
+  color: var(--primaryColor_1)
+}
+
+@media (min-width: 768px) {
+  .intro h1,
+  .change-name h1 {
+  font-size: 2.5rem;
+  }
+}
+
+.intro form .user-name,
+.change-name form .user-name {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 1rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  border-radius: var(--edgeSize);
+  caret-color: var(--accentColor_1);
+  transition-duration: .5s;
+}
+
+.intro form .user-name::placeholder,
+.change-name form .user-name::placeholder {
+  text-transform: capitalize;
+  color: var(--primaryColor_1);
+}
+
+.intro form .submit-btn,
+.change-name form .submit-btn {
+  display: block;
+  width: max-content;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 1rem 3rem;
+  text-transform: uppercase;
+}
+
+/* Main */
+
+.main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: fit-content;
+  transform: translate(-50%, -50%);
+}
+
+.main .container {
+  background-color: var(--neutralColor_1);
+}
+
+.main .container .details,
+.main .container .footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.main .container .details .abbr {
+  text-transform: uppercase;
+}
+
+.main .container .extract-content {
+  --fs: 1.2rem;
+  font-weight: 700;
+  font-size: var(--fs);
+  letter-spacing: var(--letterSpacing);
+  text-transform: none;
+}
+
+.main .container .extract-content .current {
+  white-space: nowrap;
+}
+
+.main .container .extract-content .typed,
+.main .container .extract-content .current-typed {
+  color: var(--rightTyping);
+}
+
+.main .container .extract-content .current-typed {
+  --color: var(--rightTyping);
+  --display: inline-block;
+  position: relative;
+  color: var(--color);
+}
+
+
+.main .container .extract-content .current-typed.wrong {
+  --color: var(--wrongTyping);
+}
+
+.main .container .extract-content .current-typed::before {
+  --width: .5px;
+  content: "";
+  position: absolute;
+  right: calc(-1 * var(--width));
+  top: 0;
+  height: 100%;
+  display: var(--display);
+  width: var(--width);
+  background-color: var(--color);
+}
+
+.main .container .input-container input#typing-input {
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  border-radius: var(--edgeSize);
+  color: var(--primaryColor_1);
+  background-color: white;
+  font-size: 1.4rem;
+}
