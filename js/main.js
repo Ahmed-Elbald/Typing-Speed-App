@@ -45,7 +45,7 @@ let timerHandler = null; // A handler to the timer
 let wordsWritten = 0; // How many words the user has correctly typed
 let seconds = 0; // How many seconde have left since the user started
 
-let clickSound = new Audio("../media/click.wav"); // The click sound
+let clickSound = new Audio("./media/click.wav"); // The click sound
 
 
 // Handling the page's first loading
@@ -117,7 +117,7 @@ function addEvents() {
 // Function => Fetch the extracts
 function fetchData() {
 
-  let request = fetch("../data/quotes.json") // Fetch the file
+  let request = fetch("./data/quotes.json") // Fetch the file
 
     .then(resolve => {
 
