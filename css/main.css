@@ -243,6 +243,7 @@ button {
   font-size: var(--fs);
   letter-spacing: var(--letterSpacing);
   text-transform: none;
+  user-select: none;
 }
 
 .main .container .extract-content .current {
