@@ -19,6 +19,7 @@ const currentWordWaiting = extractParagraph.querySelector(".current-waiting");
 const wordsWaiting = extractParagraph.querySelector(".waiting");
 
 const wordsInputContainer = document.querySelector(".input-container");
+const wordsInput = document.getElementById("typing-input");
 
 const bookSpan = document.querySelector(".footer span.book");
 const authorSpan = document.querySelector(".footer span.author");
@@ -112,6 +113,15 @@ function addEvents() {
   startOverBtn.addEventListener("click", () => {
     addExtract(); // Add a new extract
   });
+
+  // Add an event listener to the input
+  wordsInput.addEventListener("keyup", (e) => {
+
+    // If the length of the key pressed is 1 (it's a letter) or the key is the Backspace:
+    if (e.key.length == 1 || e.key == "Backspace") checkCorrectness(e.key);
+
+  });
+
 }
 
 // Function => Fetch the extracts
@@ -353,24 +363,5 @@ function reset() {
   currentWordTyped.textContent = "";
   currentWordWaiting.textContent = "";
   speedRateSpan.textContent = "00";
-  wordsInputContainer.innerHTML = "";
-
-  // Add a new input to type the words
-  wordsInput = document.createElement("input");
-  wordsInput.type = "text";
-  wordsInput.id = "typing-input";
-  wordsInput.ariaLabel = "Type The Word Here";
-  wordsInput.setAttribute("disabled", "");
-
-  // Add an event listener to the input
-  wordsInput.addEventListener("keyup", (e) => {
-
-    // If the length of the key pressed is 1 (it's a letter) or the key is the Backspace:
-    if (e.key.length == 1 || e.key == "Backspace") checkCorrectness(e.key);
-
-  });
-
-  // Add the input to the page
-  wordsInputContainer.appendChild(wordsInput);
 
 }
