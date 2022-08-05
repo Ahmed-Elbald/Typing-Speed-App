@@ -69,6 +69,9 @@ function handleForms() {
     // Get the input of the username
     let usernameInput = form.querySelector(".user-name");
 
+    usernameInput.addEventListener("input", (e) => console.log(e))
+    usernameInput.addEventListener("keyup", (e) => console.log(e))
+
     form.addEventListener("submit", (event) => {
 
       event.preventDefault();
@@ -115,10 +118,14 @@ function addEvents() {
   });
 
   // Add an event listener to the input
-  wordsInput.addEventListener("keyup", (e) => {
+  wordsInput.addEventListener("input", (e) => {
 
-    // If the length of the key pressed is 1 (it's a letter) or the key is the Backspace:
-    if (e.key.length == 1 || e.key == "Backspace") checkCorrectness(e.key);
+    // If it it's a character or a Backspace:
+    if (e.inputType === "insertText") {
+      checkCorrectness();
+    } else if (e.inputType === "deleteContentBackward") {
+      checkCorrectness(true);
+    }
 
   });
 
@@ -200,13 +207,13 @@ function addExtract() {
 }
 
 // Function => check the user's typing
-function checkCorrectness(keyType) {
+function checkCorrectness(backspace) {
 
   // If the the last word was typed:
   if (currentWordContent == undefined) return
 
   // If the key pressed is a "Backspace":
-  if (keyType == "Backspace") {
+  if (backspace) {
 
     // If the user has at least typed one letter in the curent word:
     if (currentWordIndex != 0) {
